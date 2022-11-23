@@ -2,6 +2,10 @@ package ejercicio_15;
 
 import javax.swing.*;
 public class Ejercicio_15 {
+    
+    //INTEGRANTES DEL EQUIPO
+    //BRAYAN STIVEN ARANGO ROMERO
+    //HEINER SANTIAGO GALLO OVALLE
     /*Realizar un programa que calcule el valor a pagar por algunos galones de gasolina 
     si sabemos que cada litro de gasolina vale 9.500.
     Imprimir la cantidad de galones, precio por galón, cantidad de litros y precio a pagar.
